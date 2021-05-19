@@ -1,5 +1,20 @@
-book_filename: "bookdown-demo"
+book_filename: "Wood anatomy of Puerto Rican trees"
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""
 delete_merged_file: true
+rmd_files: [
+  "index.Rmd",
+  "CopyOf00-Species-list.Rmd",
+  # "00-Species-list.Rmd",
+  "02-Methods.Rmd",
+  "01-Araliaceae.Rmd",
+  "01-Bignoniaceae.Rmd",
+  "01-Bursuraceae.Rmd",
+  "01-Elaeocarpaceae.Rmd",
+  "01-Fabaceae.Rmd",
+  "01-Salicaceae.Rmd",
+  "01-Sapindaceae.Rmd",
+  "01-Sapotaceae.Rmd",
+  "01-Urticaceae.Rmd",
+  "07-references.Rmd"]

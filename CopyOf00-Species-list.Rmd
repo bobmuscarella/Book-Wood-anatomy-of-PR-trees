@@ -1,0 +1,35 @@
+# Species list {-}
+
+**[Araliaceae]**
+
+- [*Schefflera morototoni*]
+
+**[Bursuraceae]**
+
+- [*Dacryodes excelsa*]
+- [*Tetragastris balsamifera*]
+
+**[Elaeocarpaceae]**
+
+   - [*Sloanea berteroana*]
+
+**[Fabaceae]**
+
+   - [*Inga laurina*]
+
+**[Salicaceae]**
+
+   - [*Casearia arborea*]
+
+**[Sapindaceae]**
+
+   - [*Matayba domingensis*]
+
+**[Sapotaceae]**
+
+   - [*Manilkara bidentata*]
+
+**[Urticaceae]**
+
+   - [*Cecropia schreberiana*]
+   
