@@ -1,0 +1,9 @@
+# Elaeocarpaceae
+
+Species in Elaeocarpaceae
+
+## *Sloanea berteroana*  {-}
+
+```{r, out.height="40%", fig.cap="Figure caption", echo=FALSE, fig.align = 'center'}
+# knitr::include_graphics("images/CASARB/2021-03-10_Image_reference_library.pptx_Page_04.jpg")
+```
