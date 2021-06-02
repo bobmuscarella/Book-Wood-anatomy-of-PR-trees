@@ -1,6 +1,6 @@
 --- 
 title: "Wood Anatomy of Puerto Rican Trees"
-author: "Silvia Bibbo, Kasia Ziemińska, Robert Muscarella"
+author: "Silvia Bibbo, Kasia Ziemińska, Sam Farrar, Emanuele Ziaco, Robert Muscarella"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
